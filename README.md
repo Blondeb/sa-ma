@@ -2,7 +2,7 @@ import random
 
 # list of books is stored in the list -'books'
 books =[ 'Geralt of Rivia', 'Kılıcın Yolu']
-
+ ssss
 # An item from the list 'books' is selected
 # by random.choice()
 print(random.choice(books))
